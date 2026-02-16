@@ -1,9 +1,90 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Lista de Presentes — [Nomes dos Noivos]</title>
 
-<html>
-  <head>
-    
-  </head>
-  <body>
-    Casamento Alyssa e Fabricio
-  </body>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./styles.css" />
+
+  <!-- QRCode generator (client-side) -->
+  <script defer src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+
+<body>
+  <header class="hero">
+    <div class="hero__bg"></div>
+
+    <div class="hero__content container">
+      <div class="hero__text">
+        <p class="pill">Casamento • <span id="weddingDateText">[data]</span></p>
+        <h1 class="title">Lista de Presentes</h1>
+        <p class="subtitle">
+          O maior presente é a sua presença 💛  
+          Se você quiser nos presentear, escolha um item abaixo e pague via Pix.
+        </p>
+
+        <div class="search">
+          <input id="searchInput" type="search" placeholder="Buscar presente (ex: cafeteira, toalhas, lua de mel)..." />
+          <span class="search__hint" id="resultsCount"></span>
+        </div>
+      </div>
+
+      <div class="hero__photo">
+        <img src="./assets/couple.jpg" alt="Foto dos noivos" />
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="grid" id="giftsGrid" aria-live="polite"></section>
+
+    <footer class="footer">
+      <p>
+        Dúvidas? Fale com a gente:
+        <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank" rel="noreferrer">WhatsApp</a>
+      </p>
+      <p class="small">Feito com carinho — hospedado no GitHub Pages.</p>
+    </footer>
+  </main>
+
+  <!-- Modal Pix -->
+  <div class="modal" id="pixModal" aria-hidden="true">
+    <div class="modal__backdrop" data-close></div>
+    <div class="modal__card" role="dialog" aria-modal="true" aria-labelledby="pixTitle">
+      <button class="iconBtn modal__close" aria-label="Fechar" data-close>✕</button>
+
+      <div class="modal__header">
+        <h2 id="pixTitle">Pix do presente</h2>
+        <p id="pixSubtitle" class="small"></p>
+      </div>
+
+      <div class="modal__body">
+        <div class="qrBox">
+          <div id="qrCode"></div>
+          <p class="small">Abra o app do seu banco → Pix → Ler QR Code</p>
+        </div>
+
+        <div class="copyBox">
+          <label class="small" for="pixPayload">Pix “copia e cola”</label>
+          <textarea id="pixPayload" readonly rows="4"></textarea>
+
+          <div class="copyRow">
+            <button class="btn" id="copyBtn">Copiar código</button>
+            <a class="btn btn--ghost" id="whatsBtn" target="_blank" rel="noreferrer">Avisar no WhatsApp</a>
+          </div>
+
+          <p class="small dim">
+            Dica: depois de pagar, toque em “Avisar no WhatsApp” para nos contar que presenteou ❤️
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
 </html>
