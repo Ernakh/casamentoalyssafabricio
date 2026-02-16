@@ -1,43 +1,44 @@
-{
-  "id": "GIFT001",
-  "title": "Café",
-  "price": 120.00,
-  "image": "./assets/gifts/café.jpg",
-  "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
-  "merchantName": "FABRICIO TONETTO LONDERO",
-  "merchantCity": "SANTA MARIA",
-  "message": "Presente: Café"
-},
-{
-  "id": "GIFT002",
-  "title": "Jogo de Panelas",
-  "price": 150.00,
-  "image": "./assets/gifts/panela.jpg",
-  "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
-  "merchantName": "FABRICIO TONETTO LONDERO",
-  "merchantCity": "SANTA MARIA",
-  "message": "Presente: Jogo de Panelas"
-},
-{
-  "id": "GIFT003",
-  "title": "Raquete de Padel",
-  "price": 750.00,
-  "image": "./assets/gifts/panela.jpg",
-  "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
-  "merchantName": "FABRICIO TONETTO LONDERO",
-  "merchantCity": "SANTA MARIA",
-  "message": "Presente: Raquete de Padel"
-},
-{
-  "id": "GIFT004",
-  "title": "Erva mate",
-  "price": 125.00,
-  "image": "./assets/gifts/panela.jpg",
-  "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
-  "merchantName": "FABRICIO TONETTO LONDERO",
-  "merchantCity": "SANTA MARIA",
-  "message": "Presente: Erva Mate"
-}
-
+[
+  {
+    "id": "GIFT001",
+    "title": "Café",
+    "price": 120.00,
+    "image": "./assets/gifts/café.jpg",
+    "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
+    "merchantName": "FABRICIO TONETTO LONDERO",
+    "merchantCity": "SANTA MARIA",
+    "message": "Presente: Café"
+  },
+  {
+    "id": "GIFT002",
+    "title": "Jogo de Panelas",
+    "price": 150.00,
+    "image": "./assets/gifts/panela.jpg",
+    "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
+    "merchantName": "FABRICIO TONETTO LONDERO",
+    "merchantCity": "SANTA MARIA",
+    "message": "Presente: Jogo de Panelas"
+  },
+  {
+    "id": "GIFT003",
+    "title": "Raquete de Padel",
+    "price": 750.00,
+    "image": "./assets/gifts/panela.jpg",
+    "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
+    "merchantName": "FABRICIO TONETTO LONDERO",
+    "merchantCity": "SANTA MARIA",
+    "message": "Presente: Raquete de Padel"
+  },
+  {
+    "id": "GIFT004",
+    "title": "Erva mate",
+    "price": 125.00,
+    "image": "./assets/gifts/panela.jpg",
+    "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
+    "merchantName": "FABRICIO TONETTO LONDERO",
+    "merchantCity": "SANTA MARIA",
+    "message": "Presente: Erva Mate"
+  }
+]
 
 
