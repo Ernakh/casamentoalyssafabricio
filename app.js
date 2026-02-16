@@ -110,7 +110,7 @@ function openPix(gift) {
     `Se precisar, posso mandar o comprovante aqui. 💛`
   );
   // Coloque seu número com DDI+DDD sem +, ex: 5511999999999
-  whatsBtn.href = `https://wa.me/55SEUNUMEROAQUI?text=${msg}`;
+  whatsBtn.href = `https://wa.me/+555584093600?text=${msg}`;
 
   // Render QR
   qrCodeBox.innerHTML = "";
