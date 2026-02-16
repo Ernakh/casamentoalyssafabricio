@@ -1,0 +1,35 @@
+[
+  {
+    "id": "GIFT001",
+    "title": "Cafeteira",
+    "description": "Pra nossos cafés de domingo.",
+    "price": 399.90,
+    "image": "./assets/gifts/cafeteira.jpg",
+    "pixKey": "sua-chave-pix-aqui",
+    "merchantName": "NOME DO RECEBEDOR",
+    "merchantCity": "SAO PAULO",
+    "message": "Presente: Cafeteira"
+  },
+  {
+    "id": "GIFT002",
+    "title": "Jogo de Panelas",
+    "description": "Pra nossa cozinha ficar completa.",
+    "price": 599.00,
+    "image": "./assets/gifts/panela.jpg",
+    "pixKey": "sua-chave-pix-aqui",
+    "merchantName": "NOME DO RECEBEDOR",
+    "merchantCity": "SAO PAULO",
+    "message": "Presente: Jogo de Panelas"
+  },
+  {
+    "id": "GIFT003",
+    "title": "Cota Lua de Mel",
+    "description": "Ajuda na viagem ✈️",
+    "price": 150.00,
+    "image": "./assets/gifts/lua.jpg",
+    "pixKey": "sua-chave-pix-aqui",
+    "merchantName": "NOME DO RECEBEDOR",
+    "merchantCity": "SAO PAULO",
+    "message": "Presente: Cota Lua de Mel"
+  }
+]
