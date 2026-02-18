@@ -232,8 +232,8 @@
   },
   {
     "id": "GIFT022",
-    "title": "Cafe na cama",
-    "description": "Pra café na cama feito pelo noivo: comprado não conta, é só logística.",
+    "title": "Café na cama",
+    "description": "Café na cama feito pelo noivo: comprado não conta, é só logística.",
     "price": 205.0,
     "image": "./assets/gifts/cafe-na-cama.jpg",
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
@@ -294,7 +294,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Conjunto de controle remoto briga"
+    "message": "Presente: controle remoto"
   },
   {
     "id": "GIFT029",
@@ -305,7 +305,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Fine pra não escutar música chata do noivo"
+    "message": "Presente: Fones"
   },
   {
     "id": "GIFT030",
@@ -316,7 +316,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Aluguel de bebê para treinamento"
+    "message": "Presente: Aluguel de bebê"
   },
   {
     "id": "GIFT031",
@@ -338,7 +338,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Curso de culinária para o noivo, a noiva já desistiu"
+    "message": "Presente: Curso de culinária"
   },
   {
     "id": "GIFT033",
@@ -349,7 +349,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Academia pra entrar em forma"
+    "message": "Presente: Academia"
   },
   {
     "id": "GIFT034",
@@ -404,7 +404,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Alexa pra não mandar só no noivo"
+    "message": "Presente: Alexa"
   },
   {
     "id": "GIFT040",
@@ -426,7 +426,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Seja nosso parente preferido, grande oportunidade"
+    "message": "Presente: Parente preferido"
   },
   {
     "id": "GIFT043",
@@ -437,7 +437,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Taxa pra perguntar qdo o casal vai ter filhos"
+    "message": "Presente: Taxa filhos"
   },
   {
     "id": "GIFT045",
@@ -448,7 +448,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Voltinha de tuk tuk na Índia"
+    "message": "Presente: Voltinha de tuk tuk"
   },
   {
     "id": "GIFT046",
@@ -470,18 +470,18 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Mergulho na praia do cassino com água viva"
+    "message": "Presente: Mergulho mo cassino"
   },
   {
     "id": "GIFT048",
-    "title": "Vinagre pra passar na queimadura de água viva nas praias do sul",
+    "title": "Vinagre pra passar na queimadura de água-viva nas praias do sul",
     "description": "Pra quando a aventura virar ardência: alívio instantâneo (e risada depois).",
     "price": 285.0,
     "image": "./assets/gifts/vinagre.jpg",
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Vinagre pra passar na queimadura de água viva nas praias do sul"
+    "message": "Presente: Vinagre"
   },
   {
     "id": "GIFT049",
@@ -492,7 +492,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Taxa pra ir na lua de mel"
+    "message": "Presente: Taxa lua de mel"
   },
   {
     "id": "GIFT050",
@@ -525,7 +525,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Passeio de quadriciclo em Santa flora"
+    "message": "Presente: Passeio de quadriciclo"
   },
   {
     "id": "GIFT053",
@@ -536,7 +536,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Ingresso pra ver o jogo interzinho e ituano"
+    "message": "Presente: Ingresso pra ver o jogo"
   },
   {
     "id": "GIFT054",
@@ -547,7 +547,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Construção da quadra de padel"
+    "message": "Presente: Construção"
   },
   {
     "id": "GIFT055",
@@ -558,7 +558,7 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Tomar porre em um resort all inclusive"
+    "message": "Presente: resort"
   },
   {
     "id": "GIFT056",
@@ -569,6 +569,6 @@
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
-    "message": "Presente: Shoulder bag pro noivo passear"
+    "message": "Presente: Shoulder bag"
   }
 ]
