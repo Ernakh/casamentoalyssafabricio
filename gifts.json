@@ -343,7 +343,7 @@
   {
     "id": "GIFT033",
     "title": "Academia pra entrar em forma",
-    "description": "Pra entrar em forma… qualquer forma já serve (principalmente a forma do Xis).",
+    "description": "Pra entrar em forma… qualquer forma já serve.",
     "price": 255.0,
     "image": "./assets/gifts/academia.jpg",
     "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
@@ -463,7 +463,7 @@
   },
   {
     "id": "GIFT047",
-    "title": "Mergulho na praia do cassino com água viva",
+    "title": "Mergulho na praia do Cassino com água viva",
     "description": "Pra mergulhar corajosamente… e sair com uma história ardida pra contar.",
     "price": 280.0,
     "image": "./assets/gifts/mergulho-cassino.jpg",
