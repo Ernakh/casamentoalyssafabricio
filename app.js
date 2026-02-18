@@ -102,12 +102,11 @@ function openPix(gift) {
   pixSubtitle.textContent = `${gift.title} • ${formatBRL(gift.price)}`;
   pixPayload.value = payload;
 
-  // WhatsApp prefilled message (troque o número no index.html também)
+  // WhatsApp prefilled message
   const msg = encodeURIComponent(
     `Olá! Eu acabei de enviar o Pix do presente "${gift.title}" (${formatBRL(gift.price)}).\n` +
     `Meu nome é: ________\n` +
-    `Mensagem: ________\n` +
-    `Se precisar, posso mandar o comprovante aqui. 💛`
+    `Mensagem: ________\n`
   );
   // Coloque seu número com DDI+DDD sem +, ex: 5511999999999
   whatsBtn.href = `https://wa.me/+555584093600?text=${msg}`;
