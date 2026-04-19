@@ -581,5 +581,16 @@
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
     "message": "Presente: scooter"
+  },
+   {
+    "id": "GIFT058",
+    "title": "Álbum de Casamento",
+    "description": "Será a única coisa que sobrará da festa, além das parcelas no cartão de crédito. Folheie com cuidado: cada página custou um rim!",
+    "price": 3000.0,
+    "image": "./assets/gifts/albumsimpsons.jpg",
+    "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
+    "merchantName": "FABRICIO TONETTO LONDERO",
+    "merchantCity": "SANTA MARIA",
+    "message": "Presente: album"
   }
 ]
