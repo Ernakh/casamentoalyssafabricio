@@ -592,5 +592,16 @@
     "merchantName": "FABRICIO TONETTO LONDERO",
     "merchantCity": "SANTA MARIA",
     "message": "Presente: album"
+  },
+   {
+    "id": "GIFT059",
+    "title": "Airfryer",
+    "description": "O único aparelho que me faz acreditar que batata frita é salada",
+    "price": 3000.0,
+    "image": "./assets/gifts/airfryer.jpg",
+    "pixKey": "a63099e0-1047-41f2-9d46-2beabb94c5aa",
+    "merchantName": "FABRICIO TONETTO LONDERO",
+    "merchantCity": "SANTA MARIA",
+    "message": "Presente: airfryer"
   }
 ]
